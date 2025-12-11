@@ -545,7 +545,7 @@
       "plot": "../../production/BGA/",
       "pos_files": "../production",
       "specctra_dsn": "",
-      "step": "../cad/PCB.step",
+      "step": "../../Watch-HW/watch/library/3D/Extension.stp",
       "svg": "",
       "vrml": "../cad/ZSWatch.wrl"
     },
