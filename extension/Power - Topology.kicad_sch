@@ -5,6 +5,7 @@
 	(uuid "e4072e16-76e5-4cb7-b600-1ae14a69f117")
 	(paper "A3")
 	(title_block
+		(title "Power - Topology")
 		(date "2025-07-13")
 		(rev "${REVISION}")
 		(company "${COMPANY}")
@@ -37,6 +38,29 @@
 			(color 0 0 0 1)
 		)
 		(uuid a45710fa-44e6-44b9-8060-80cdd32ce581)
+	)
+	(text_box "[${#}] ${TITLE}"
+		(exclude_from_sim no)
+		(at 12.7 12.7 0)
+		(size 393.7 27.94)
+		(margins 4.4999 4.4999 4.4999 4.4999)
+		(stroke
+			(width -0.0001)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(face "Times New Roman")
+				(size 6 6)
+				(thickness 1.2)
+				(bold yes)
+				(color 162 22 34 1)
+			)
+		)
+		(uuid "1652a13a-5383-4ced-80ad-32f2c5751290")
 	)
 	(text_box "Spec 2"
 		(exclude_from_sim no)
@@ -247,7 +271,7 @@
 		(uuid "fb4daffd-d583-4e02-886e-d9143aca708c")
 	)
 	(image
-		(at 214.63 120.65)
+		(at 212.09 146.05)
 		(scale 1.51331)
 		(uuid "2bbe9ba3-4f2b-4ff7-bedf-a8c6fd130d2d")
 		(data "iVBORw0KGgoAAAANSUhEUgAAC0QAAAWQCAYAAADApWVoAAAABHNCSVQICAgIfAhkiAAAIABJREFU"

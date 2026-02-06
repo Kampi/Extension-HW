@@ -5,7 +5,7 @@
 	(uuid "d5742f03-3b1a-42e5-a384-018bd4b919aa")
 	(paper "A4")
 	(title_block
-		(title "Power-Management")
+		(title "Project Architecture")
 		(date "2025-07-13")
 		(rev "${REVISION}")
 		(company "${COMPANY}")
@@ -52,6 +52,29 @@
 			(href "#5")
 		)
 		(uuid "edcfc842-3b0d-4b1a-9bde-92f723be0a77")
+	)
+	(text_box "[${#}] ${TITLE}"
+		(exclude_from_sim no)
+		(at 12.7 12.7 0)
+		(size 271.78 16.51)
+		(margins 4.4999 4.4999 4.4999 4.4999)
+		(stroke
+			(width -0.0001)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(face "Times New Roman")
+				(size 6 6)
+				(thickness 1.2)
+				(bold yes)
+				(color 162 22 34 1)
+			)
+		)
+		(uuid "4c816220-9223-4e1f-aa42-2683b6d6c3d0")
 	)
 	(junction
 		(at 154.94 71.12)

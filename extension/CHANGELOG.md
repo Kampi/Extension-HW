@@ -2,8 +2,6 @@
 
 ## [Unreleased]
 
-### Fixed
+**Added:**
 
-### Added
-
-### Changed
+Initial release
