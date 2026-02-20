@@ -1,5 +1,5 @@
 ** Drc report for ZSWatch-Extension.kicad_pcb **
-** Created on 2026-02-20T14:40:58+0000 **
+** Created on 2026-02-20T15:14:23+0000 **
 
 ** Found 40 DRC violations **
 [clearance]: Clearance violation (netclass 'Default' clearance 0.1000 mm; actual 0.0497 mm)
